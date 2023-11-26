@@ -1,14 +1,14 @@
 {
   "name": "cake",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "jack",
+  "license": "MIT",
   "dependencies": {
     "@types/node": "^20.10.0",
     "axios": "^1.6.2",
